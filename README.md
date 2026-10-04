@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=WEICOME+TO+MY+GITHUB+PROFILE+PAGE!)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Luinage&abbreviated=true" />
 
 <!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Luinage&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" /> -->
 
